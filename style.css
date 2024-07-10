@@ -98,3 +98,35 @@ nav ul li a{
     border: none;
     margin-bottom: 35px;
 }
+/* header section end */
+/* main section start */
+#main-section{
+max-width: 1440px;
+margin: 0 auto;
+border: 2px solid red;
+}
+.section-content{
+    max-width: 1140px;
+    background-color: #E7ECFF;
+    margin: 0 auto;
+    border: 2px solid violet;
+}
+/* section title */
+.section-title{
+max-width: 852px;
+margin: 0 auto;
+text-align: center;
+padding: 3px;
+border: 2px solid yellow;
+}
+.sec-title-text{
+    color: #0D1321;
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+.sec-description-text{
+    cursor: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+}
