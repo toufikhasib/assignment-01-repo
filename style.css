@@ -28,7 +28,11 @@ body{
 nav ul{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 55px;
+    margin-right: 150px;
+    /* gap: 10px; */
 }
 nav ul li{
     list-style: none;
@@ -54,7 +58,10 @@ nav ul li a{
   #banner-sec{
     max-width: 1440px;
     max-height: 652px;
-    border: 2px solid yellow;
+    /* border: 2px solid yellow; */
+    background-image: url(../assignment-01-repo/as-image/Hero-bg.jpg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 
 .banner-content{
@@ -62,7 +69,7 @@ nav ul li a{
     max-height: 581px;
     margin: 0 auto;
     text-align: center;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 .banner-img{
     margin-bottom: 30px;
@@ -89,4 +96,5 @@ nav ul li a{
     font-size: 20px;
     border-radius: 8px;
     border: none;
+    margin-bottom: 35px;
 }
