@@ -105,7 +105,7 @@ max-width: 1440px;
 margin: 0 auto;
 border: 2px solid red;
 }
-.section-content{
+.hero-section-content{
     max-width: 1140px;
     background-color: #E7ECFF;
     margin: 0 auto;
@@ -245,5 +245,31 @@ border: 2px solid yellow;
   height: 240px;
   
 }
+/* section-content */
+.section-content{
+    max-width: 852px;
+    margin: 0 auto;
+    border: 2px solid yellow;
+    text-align: center;
+}
+.sec-content-title{
+    padding: 0 150px;
+}
+.sec-content-title h4{
+    color: #0D1321;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 50px;
+}
+.sec-content-title p{
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 300;
+    margin-bottom: 45px;
+}
+.content-video{
+    border-radius: 8px;
+}
+
 
 /*  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
