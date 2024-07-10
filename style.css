@@ -1,0 +1,92 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* font family */
+.azeret-mono-normal {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  /* content width */
+  .content-width{
+    max-width: 1440px;
+  margin: 0 auto;
+  /* background-color: black; */
+  /* header section */
+  }
+  .header{
+    max-width: 1440px;
+     margin: 0 auto;
+  border: 2px solid green;
+  }
+  /* nav section */
+ 
+nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+nav ul li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+}
+  .nav-title{
+    font-size: 28px;
+    font-weight: 800;
+    color: #0D1321;
+  }
+  .primary-button{
+    font-size: 20px;
+    font-weight: 500;
+    color: #0D1321;
+    padding: 15px 22px;
+    border-radius: 8px;
+    /* box-shadow: 4, 0,#000000; */
+    border: none;
+  }
+  /* banner-sec */
+  #banner-sec{
+    max-width: 1440px;
+    max-height: 652px;
+    border: 2px solid yellow;
+  }
+
+.banner-content{
+    max-width: 998px;
+    max-height: 581px;
+    margin: 0 auto;
+    text-align: center;
+    border: 2px solid red;
+}
+.banner-img{
+    margin-bottom: 30px;
+}
+.banner-text{
+
+}
+.b-text-title{
+    font-size: 48px;
+    font-weight: 800;
+    color: #0D1321;
+    margin-bottom: 24px;
+}
+.b-text-description{
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 26px;
+}
+.b-text-btn{
+    background-color: #0D1321;
+    color: #FFFFFF;
+    padding: 16px 30px;
+    font-size: 20px;
+    border-radius: 8px;
+    border: none;
+}
