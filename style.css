@@ -321,6 +321,7 @@ padding: 3px;
     padding: 60px 48px;
     text-align: center;
     border-radius: 8px;
+   margin-top: 80px;
 }
 .from-hradding h3{
     color: #FFFFFF;
@@ -357,7 +358,7 @@ padding: 3px;
     border-radius: 8px;
     border: none;
 }
-.footer{
+#footer-section{
     max-width: 1140px;
     margin: 0 auto;
     display: flex;
@@ -370,8 +371,3 @@ padding: 3px;
     font-size: 20px;
     color: #0D1321;
 }
-
-
-
-
-/*  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
