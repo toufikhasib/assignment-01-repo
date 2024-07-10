@@ -141,6 +141,17 @@ border: 2px solid yellow;
     border: 2px solid green;
 }
 /*  */
+/* sec-btn */
+.sec-btn{
+    padding: 10px 23px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #0D1321;
+    text-align: left;
+    display:block;
+    margin-left: 10px;
+}
+/*  */
 /* section group -1 */
 
     
@@ -149,7 +160,7 @@ border: 2px solid yellow;
 .group-1-title{
     width: 446px;
     text-align: center;
-    /* border: 1px solid black; */
+    
 }
 .group-1-title-text{
     color: #0D1321;
@@ -161,30 +172,34 @@ border: 2px solid yellow;
     font-size: 16px;
     font-weight: 300;
 }
-.section-group-btn{
-    padding: 10px 23px;
-    font-size: 20px;
-    font-weight: 400;
-    color: #0D1321;
-    border-radius: 8px;
-}
+
 .group-1-img{
-    border: 2px solid tomato;
+   
     width: 446px;
 }
 .section-img-1{
   margin: 0 auto;
-  display: inline-block;
+  /* display: inline-block; */
  margin-left: 100px;
   height: 240px;
   
 }
 /* section group 02 */
-
+.group-2-img{
+  
+    width: 246px;
+}
+.section-img-2{
+  margin: 0 auto;
+  /* display: inline-block; */
+ margin-right: 150px;
+  height: 240px;
+  
+}
 .group-2-title{
     width: 446px;
     text-align: center;
-    /* border: 1px solid black; */
+    padding-left: 5px;
 }
 .group-2-title-text{
     color: #0D1321;
@@ -196,6 +211,22 @@ border: 2px solid yellow;
     font-size: 16px;
     font-weight: 300;
 }
+/* section group 03 */
+
+.group-3-title{
+    width: 446px;
+    text-align: center;
+}
+.group-3-title-text{
+    color: #0D1321;
+    font-size: 24px;
+    font-weight: 500;
+}
+.group-3-title-description{
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 300;
+}
 .section-group-btn{
     padding: 10px 23px;
     font-size: 20px;
@@ -203,21 +234,16 @@ border: 2px solid yellow;
     color: #0D1321;
     border-radius: 8px;
 }
-.group-2-img{
-    border: 2px solid tomato;
+.group-3-img{
+    
     width: 446px;
 }
-.section-img-2{
+.section-img-3{
   margin: 0 auto;
-  display: inline-block;
+  /* display: inline-block; */
  margin-left: 100px;
   height: 240px;
   
 }
-
-
-
-
-
 
 /*  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
