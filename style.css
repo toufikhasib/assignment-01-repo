@@ -306,7 +306,7 @@ border: 2px solid yellow;
 }
 .banner-2{
         width: 25%;
-        padding: 3%;
+        padding: 3.50%;
     text-align: left;
     margin: 0 auto;
         background-color: #ADC8F7;
@@ -320,6 +320,49 @@ border: 2px solid yellow;
     background-color: #FDBD91;
     border-radius: 8px;
 }
+#contact-from{
+    background: url(../assignment-01-repo/as-image/handshake.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: normal;
+    background-position: center;
+    max-width: 1044px;
+    margin: 0 auto;
+    max-height: 220px;
+    padding: 60px 48px;
+    text-align: center;
+    border-radius: 8px;
+}
+.from-hradding h3{
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: 300;
+}
+.from-hradding p{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 100;
+}
+.from{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.from-input input{
+    /* display: block; */
+    border: 2px solid fuchsia;
+    margin: 0 auto;
+    max-width: 312px;
+    height: 20px;
+    padding: 19px 216px 19px 20px;
+    border-radius: 8px;
+}
+.from-submite input{
+    border: none;
+    padding: 16px 20px;
+    border-radius: 8px;
+}
+
 
 
 
