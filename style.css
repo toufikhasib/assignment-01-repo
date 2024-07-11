@@ -10,14 +10,11 @@ body{
   .content-width{
     max-width: 1440px;
   margin: 0 auto;
-  border: 2px solid green;
-  /* background-color: black; */
   /* header section */
   }
   .header{
     max-width: 1440px;
      margin: 0 auto;
-     border: 2px solid yellow;
     }
   /* nav section */
 nav ul{
@@ -56,7 +53,6 @@ nav ul li a{
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 30px;
-    border: 2px solid yellow;
   }
 
 .banner-content{
@@ -64,7 +60,6 @@ nav ul li a{
     max-height: 581px;
     margin: 0 auto;
     text-align: center;
-    border: 2px solid red;
 }
 .banner-img{
     margin-bottom: 30px;
@@ -98,15 +93,14 @@ max-width: 1440px;
 margin: 0 auto;
 background-color: #F6F5F5;
 padding-bottom: 30px;
-border: 2px solid blue;
 }
 .hero-section-content{
     max-width: 980px;
     margin: 0 auto;
     margin-top: 70px;
     padding: 80px 78px;
-    background-color: #F6F5F5;
-    border: 2px solid fuchsia;
+    background-color: #f2f2f2;
+
 }
 /* section title */
 .section-title{
@@ -114,7 +108,6 @@ max-width: 850px;
 margin: 0 auto;
 text-align: center;
 padding: 3px;
-border: 2px solid forestgreen;
 background-color: #FFFFFF;
 }
 .sec-title-text{
@@ -137,7 +130,6 @@ background-color: #FFFFFF;
     justify-content: center;
     padding: 6px 60px;
     background-color: #FFFFFF;
-    border: 2px solid red;
 }
 /*  */
 /* sec-btn */
@@ -249,14 +241,12 @@ background-color: #FFFFFF;
     max-width: 1140px;
     margin: 0 auto;
     text-align: center;
-    border: 2px solid orangered;
 }
 .sec-content-title{
     max-width: 852px;
     margin: 0 auto;
     text-align: center;
     padding: 0 150px;
-    border: 2px solid orchid;
 }
 .sec-content-title h4{
     color: #0D1321;
@@ -278,14 +268,12 @@ background-color: #FFFFFF;
 .section-content-banner{
     max-width: 1140px;
     margin: 0 auto;
-    border: 2px solid orange;
 }
 .content-banner-title{
     max-width: 852px;
     margin: 0 auto;
     text-align: center;
     padding: 5px;
-    border: 2px solid olive;
 }
 
 /* content-banner-1 */
@@ -294,7 +282,6 @@ background-color: #FFFFFF;
     display: flex;
     gap: 5%;
     align-items: center;
-    border: 2px solid tomato;
 }
 .banner-1{
     width: 25%;
@@ -331,7 +318,6 @@ background-color: #FFFFFF;
     text-align: center;
     border-radius: 8px;
    margin-top: 80px;
-   border: 2px solid turquoise;
 }
 .from-hradding h3{
     color: #FFFFFF;
@@ -376,8 +362,6 @@ background-color: #FFFFFF;
     align-items: center;
     padding: 10px 152px;
     background-color: #F6F5F5;
-    /* margin-top: 30px; */
-    border: 2px solid firebrick;
 }
 .footer-title{
     font-size: 20px;
