@@ -306,8 +306,7 @@ padding: 3px;
 .contact-from{
     background: url(../assignment-01-repo/as-image/handshake.jpg.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    /* background-blend-mode: normal; */
+    background-blend-mode: darken;
     background-position: center;
     max-width: 1044px;
     margin: 0 auto;
